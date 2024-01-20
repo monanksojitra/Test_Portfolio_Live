@@ -4,7 +4,7 @@ const Sheredata = () => {
   return (
     <div className="lg:h-[480px]  bg-gray-700 md:mx-12 rounded-br-[90px] lg:rounded-br-[160px] rounded-3xl bg-gradient-to-br from-pink-300 to-indigo-500 flex flex-row  md:p-11 p-5">
       <div className="flex flex-col gap-1 md:gap-4">
-        <p className="text-xl md:text-[42px] lg:text-[57px] font-bold text-white md:leading-snug">
+        <p className="text-xl md:text-[42px] lg:text-[40px] xl:text-[57px] font-bold text-white md:leading-snug">
           Each student an share their <br /> discount code for friends
         </p>
         <p className="text-hero text-xs lg:text-2xl font-medium md:w-[90%] ">

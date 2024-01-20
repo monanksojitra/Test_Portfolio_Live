@@ -15,20 +15,20 @@ const Footer = () => {
             </p>
           </div>
           <div>
-            <p className="text-white text-sm font-semibold my-4 md:w-[80%]">
+            <p className="text-white text-sm font-semibold my-4 xl:w-[80%]">
               A simple paragraph is comprised of three major components. The
               first sentence, which is often a declarative sentence.
             </p>
           </div>
           <div className="flex flex-row">
             <input
-              className="bg-[#9A7AF159] p-1 rounded-tl-md rounded-bl-md text-xs md:text-xl px-2 md:px-6 md:py-3 font-normal"
+              className="bg-[#9A7AF159] p-1 rounded-tl-md rounded-bl-md text-xs md:text-xl px-2 xl:px-6 md:py-3 font-normal"
               type="email"
               name=""
               id=""
               placeholder="Your email"
             />
-            <button className="bg-getstart rounded-md -translate-x-1 p-2 text-sm md:text-xl md:px-4 text-white font-bold">
+            <button className="bg-getstart rounded-md -translate-x-1 p-2 text-sm md:text-xl xl:px-4 text-white font-bold">
               Subscribe
             </button>
           </div>
