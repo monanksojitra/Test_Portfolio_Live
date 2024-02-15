@@ -56,7 +56,7 @@ const Footer = () => {
               <li>What is needed for this?</li>
             </ul>
           </div>
-          <div>
+          <div className="max-sm:mt-4">
             <p className="text-md font-bold md:text-2xl text-white md:my-2">
               Contacts
             </p>

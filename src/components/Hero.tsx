@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="lg:h-[490px]  bg-gray-700 md:mx-12 rounded-br-[90px] lg:rounded-br-[160px] rounded-3xl bg-gradient-to-br from-pink-300 to-indigo-500 flex flex-row  md:p-11 p-5">
       <div className="flex flex-col justify-between gap-2 lg:gap-4 md:w-[80%]">
         <p className="text-xl sm:text-2xl md:text-[42px] lg:text-5xl xl:text-[57px] font-bold text-white md:leading-snug">
-          Develop your skills <br /> without diligence
+          Develop your skills  without diligence
         </p>
         <p className="text-hero text-xs lg:text-2xl font-medium md:w-[90%] w-[80%]">
           A good example of a paragraph contains a topic sentence, details and a
